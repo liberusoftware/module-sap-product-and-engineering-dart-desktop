@@ -1,5 +1,5 @@
-name: module_boilerplate_dart_desktop
-description: Liberu Dart · Desktop reusable module foundation.
+name: module_sap_product_and_engineering_dart_desktop
+description: "Product and engineering Dart \u00b7 Desktop presentation skeleton."
 version: 0.1.0-dev.1
 publish_to: none
 environment:
